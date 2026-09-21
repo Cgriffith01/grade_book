@@ -1,7 +1,5 @@
 #
-#SEC290.13767.FA2022
 #Christine Griffith
-#10/15/22
 #Week 7 Homework Assignment 
 #
 quiz_scores = []
